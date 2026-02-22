@@ -5,10 +5,10 @@
  - pkg install python3 --upgrade
 
 // Clonar este repositorio:
- - git clone https://github.com/key19910/Keyla91.git
+ - git clone https://github.com/key19910/Stefania91.git
 
 // Ingresar al proyecto
- - cd copita/
+ - cd monchi/
 
 // Instalar las dependencias necesarias:
  - pip install -r requirements.txt
